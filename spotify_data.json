@@ -1,0 +1,702 @@
+[
+    {
+        "track_id": "SP0001",
+        "title": "Track Title 1",
+        "artist": "Artist 10",
+        "streams": 8780830,
+        "release_date": "2023-09-23"
+    },
+    {
+        "track_id": "SP0002",
+        "title": "Track Title 2",
+        "artist": "Artist 4",
+        "streams": 5017790,
+        "release_date": "2024-08-31"
+    },
+    {
+        "track_id": "SP0003",
+        "title": "Track Title 3",
+        "artist": "Artist 6",
+        "streams": 7050920,
+        "release_date": "2023-10-05"
+    },
+    {
+        "track_id": "SP0004",
+        "title": "Track Title 4",
+        "artist": "Artist 1",
+        "streams": 8423691,
+        "release_date": "2023-07-29"
+    },
+    {
+        "track_id": "SP0005",
+        "title": "Track Title 5",
+        "artist": "Artist 5",
+        "streams": 835690,
+        "release_date": "2023-09-07"
+    },
+    {
+        "track_id": "SP0006",
+        "title": "Track Title 6",
+        "artist": "Artist 8",
+        "streams": 1229375,
+        "release_date": "2024-01-19"
+    },
+    {
+        "track_id": "SP0007",
+        "title": "Track Title 7",
+        "artist": "Artist 8",
+        "streams": 1680514,
+        "release_date": "2023-09-30"
+    },
+    {
+        "track_id": "SP0008",
+        "title": "Track Title 8",
+        "artist": "Artist 9",
+        "streams": 7073672,
+        "release_date": "2023-11-22"
+    },
+    {
+        "track_id": "SP0009",
+        "title": "Track Title 9",
+        "artist": "Artist 1",
+        "streams": 7582641,
+        "release_date": "2023-09-08"
+    },
+    {
+        "track_id": "SP0010",
+        "title": "Track Title 10",
+        "artist": "Artist 4",
+        "streams": 9370387,
+        "release_date": "2023-06-10"
+    },
+    {
+        "track_id": "SP0011",
+        "title": "Track Title 11",
+        "artist": "Artist 8",
+        "streams": 7512141,
+        "release_date": "2025-01-07"
+    },
+    {
+        "track_id": "SP0012",
+        "title": "Track Title 12",
+        "artist": "Artist 10",
+        "streams": 5107221,
+        "release_date": "2024-01-05"
+    },
+    {
+        "track_id": "SP0013",
+        "title": "Track Title 13",
+        "artist": "Artist 8",
+        "streams": 193161,
+        "release_date": "2024-01-24"
+    },
+    {
+        "track_id": "SP0014",
+        "title": "Track Title 14",
+        "artist": "Artist 9",
+        "streams": 5934153,
+        "release_date": "2023-07-27"
+    },
+    {
+        "track_id": "SP0015",
+        "title": "Track Title 15",
+        "artist": "Artist 6",
+        "streams": 223698,
+        "release_date": "2024-05-31"
+    },
+    {
+        "track_id": "SP0016",
+        "title": "Track Title 16",
+        "artist": "Artist 7",
+        "streams": 3681896,
+        "release_date": "2023-12-08"
+    },
+    {
+        "track_id": "SP0017",
+        "title": "Track Title 17",
+        "artist": "Artist 3",
+        "streams": 1396689,
+        "release_date": "2023-11-10"
+    },
+    {
+        "track_id": "SP0018",
+        "title": "Track Title 18",
+        "artist": "Artist 10",
+        "streams": 4102634,
+        "release_date": "2023-06-29"
+    },
+    {
+        "track_id": "SP0019",
+        "title": "Track Title 19",
+        "artist": "Artist 1",
+        "streams": 2080731,
+        "release_date": "2024-10-18"
+    },
+    {
+        "track_id": "SP0020",
+        "title": "Track Title 20",
+        "artist": "Artist 3",
+        "streams": 5749216,
+        "release_date": "2024-03-29"
+    },
+    {
+        "track_id": "SP0021",
+        "title": "Track Title 21",
+        "artist": "Artist 5",
+        "streams": 1470736,
+        "release_date": "2023-07-04"
+    },
+    {
+        "track_id": "SP0022",
+        "title": "Track Title 22",
+        "artist": "Artist 5",
+        "streams": 7137869,
+        "release_date": "2024-10-10"
+    },
+    {
+        "track_id": "SP0023",
+        "title": "Track Title 23",
+        "artist": "Artist 1",
+        "streams": 1174086,
+        "release_date": "2024-12-29"
+    },
+    {
+        "track_id": "SP0024",
+        "title": "Track Title 24",
+        "artist": "Artist 6",
+        "streams": 512034,
+        "release_date": "2024-02-23"
+    },
+    {
+        "track_id": "SP0025",
+        "title": "Track Title 25",
+        "artist": "Artist 3",
+        "streams": 5133055,
+        "release_date": "2023-10-22"
+    },
+    {
+        "track_id": "SP0026",
+        "title": "Track Title 26",
+        "artist": "Artist 4",
+        "streams": 4782438,
+        "release_date": "2024-07-07"
+    },
+    {
+        "track_id": "SP0027",
+        "title": "Track Title 27",
+        "artist": "Artist 2",
+        "streams": 7276301,
+        "release_date": "2023-06-02"
+    },
+    {
+        "track_id": "SP0028",
+        "title": "Track Title 28",
+        "artist": "Artist 2",
+        "streams": 843221,
+        "release_date": "2024-01-09"
+    },
+    {
+        "track_id": "SP0029",
+        "title": "Track Title 29",
+        "artist": "Artist 10",
+        "streams": 262610,
+        "release_date": "2023-08-19"
+    },
+    {
+        "track_id": "SP0030",
+        "title": "Track Title 30",
+        "artist": "Artist 1",
+        "streams": 1063756,
+        "release_date": "2024-02-11"
+    },
+    {
+        "track_id": "SP0031",
+        "title": "Track Title 31",
+        "artist": "Artist 3",
+        "streams": 7143248,
+        "release_date": "2025-05-14"
+    },
+    {
+        "track_id": "SP0032",
+        "title": "Track Title 32",
+        "artist": "Artist 9",
+        "streams": 3783101,
+        "release_date": "2023-11-16"
+    },
+    {
+        "track_id": "SP0033",
+        "title": "Track Title 33",
+        "artist": "Artist 7",
+        "streams": 6931407,
+        "release_date": "2024-12-23"
+    },
+    {
+        "track_id": "SP0034",
+        "title": "Track Title 34",
+        "artist": "Artist 8",
+        "streams": 852899,
+        "release_date": "2024-12-16"
+    },
+    {
+        "track_id": "SP0035",
+        "title": "Track Title 35",
+        "artist": "Artist 9",
+        "streams": 6479773,
+        "release_date": "2024-08-08"
+    },
+    {
+        "track_id": "SP0036",
+        "title": "Track Title 36",
+        "artist": "Artist 4",
+        "streams": 6543576,
+        "release_date": "2024-08-17"
+    },
+    {
+        "track_id": "SP0037",
+        "title": "Track Title 37",
+        "artist": "Artist 2",
+        "streams": 3151583,
+        "release_date": "2023-11-19"
+    },
+    {
+        "track_id": "SP0038",
+        "title": "Track Title 38",
+        "artist": "Artist 6",
+        "streams": 2235561,
+        "release_date": "2024-05-15"
+    },
+    {
+        "track_id": "SP0039",
+        "title": "Track Title 39",
+        "artist": "Artist 3",
+        "streams": 6900785,
+        "release_date": "2024-02-25"
+    },
+    {
+        "track_id": "SP0040",
+        "title": "Track Title 40",
+        "artist": "Artist 4",
+        "streams": 626232,
+        "release_date": "2024-10-03"
+    },
+    {
+        "track_id": "SP0041",
+        "title": "Track Title 41",
+        "artist": "Artist 2",
+        "streams": 7468594,
+        "release_date": "2024-06-08"
+    },
+    {
+        "track_id": "SP0042",
+        "title": "Track Title 42",
+        "artist": "Artist 4",
+        "streams": 4761656,
+        "release_date": "2024-04-21"
+    },
+    {
+        "track_id": "SP0043",
+        "title": "Track Title 43",
+        "artist": "Artist 5",
+        "streams": 1739260,
+        "release_date": "2024-11-03"
+    },
+    {
+        "track_id": "SP0044",
+        "title": "Track Title 44",
+        "artist": "Artist 4",
+        "streams": 806220,
+        "release_date": "2024-06-10"
+    },
+    {
+        "track_id": "SP0045",
+        "title": "Track Title 45",
+        "artist": "Artist 2",
+        "streams": 191547,
+        "release_date": "2024-07-15"
+    },
+    {
+        "track_id": "SP0046",
+        "title": "Track Title 46",
+        "artist": "Artist 4",
+        "streams": 6498642,
+        "release_date": "2024-03-31"
+    },
+    {
+        "track_id": "SP0047",
+        "title": "Track Title 47",
+        "artist": "Artist 2",
+        "streams": 9432548,
+        "release_date": "2024-07-31"
+    },
+    {
+        "track_id": "SP0048",
+        "title": "Track Title 48",
+        "artist": "Artist 1",
+        "streams": 6406782,
+        "release_date": "2023-08-30"
+    },
+    {
+        "track_id": "SP0049",
+        "title": "Track Title 49",
+        "artist": "Artist 4",
+        "streams": 943979,
+        "release_date": "2024-11-09"
+    },
+    {
+        "track_id": "SP0050",
+        "title": "Track Title 50",
+        "artist": "Artist 8",
+        "streams": 8277252,
+        "release_date": "2025-05-03"
+    },
+    {
+        "track_id": "SP0051",
+        "title": "Track Title 51",
+        "artist": "Artist 8",
+        "streams": 9187317,
+        "release_date": "2023-11-18"
+    },
+    {
+        "track_id": "SP0052",
+        "title": "Track Title 52",
+        "artist": "Artist 1",
+        "streams": 7172525,
+        "release_date": "2024-03-10"
+    },
+    {
+        "track_id": "SP0053",
+        "title": "Track Title 53",
+        "artist": "Artist 6",
+        "streams": 2328325,
+        "release_date": "2024-01-13"
+    },
+    {
+        "track_id": "SP0054",
+        "title": "Track Title 54",
+        "artist": "Artist 3",
+        "streams": 9626909,
+        "release_date": "2024-12-14"
+    },
+    {
+        "track_id": "SP0055",
+        "title": "Track Title 55",
+        "artist": "Artist 10",
+        "streams": 5406390,
+        "release_date": "2025-02-25"
+    },
+    {
+        "track_id": "SP0056",
+        "title": "Track Title 56",
+        "artist": "Artist 1",
+        "streams": 5693463,
+        "release_date": "2023-07-08"
+    },
+    {
+        "track_id": "SP0057",
+        "title": "Track Title 57",
+        "artist": "Artist 9",
+        "streams": 909010,
+        "release_date": "2023-11-20"
+    },
+    {
+        "track_id": "SP0058",
+        "title": "Track Title 58",
+        "artist": "Artist 5",
+        "streams": 7700517,
+        "release_date": "2024-05-16"
+    },
+    {
+        "track_id": "SP0059",
+        "title": "Track Title 59",
+        "artist": "Artist 7",
+        "streams": 2278632,
+        "release_date": "2023-06-04"
+    },
+    {
+        "track_id": "SP0060",
+        "title": "Track Title 60",
+        "artist": "Artist 2",
+        "streams": 4811461,
+        "release_date": "2025-02-28"
+    },
+    {
+        "track_id": "SP0061",
+        "title": "Track Title 61",
+        "artist": "Artist 9",
+        "streams": 336606,
+        "release_date": "2023-10-04"
+    },
+    {
+        "track_id": "SP0062",
+        "title": "Track Title 62",
+        "artist": "Artist 6",
+        "streams": 8642909,
+        "release_date": "2024-01-27"
+    },
+    {
+        "track_id": "SP0063",
+        "title": "Track Title 63",
+        "artist": "Artist 1",
+        "streams": 239212,
+        "release_date": "2024-07-07"
+    },
+    {
+        "track_id": "SP0064",
+        "title": "Track Title 64",
+        "artist": "Artist 10",
+        "streams": 5860128,
+        "release_date": "2024-10-13"
+    },
+    {
+        "track_id": "SP0065",
+        "title": "Track Title 65",
+        "artist": "Artist 4",
+        "streams": 6505728,
+        "release_date": "2024-02-16"
+    },
+    {
+        "track_id": "SP0066",
+        "title": "Track Title 66",
+        "artist": "Artist 2",
+        "streams": 8921360,
+        "release_date": "2024-01-26"
+    },
+    {
+        "track_id": "SP0067",
+        "title": "Track Title 67",
+        "artist": "Artist 6",
+        "streams": 1820102,
+        "release_date": "2023-05-23"
+    },
+    {
+        "track_id": "SP0068",
+        "title": "Track Title 68",
+        "artist": "Artist 4",
+        "streams": 7088749,
+        "release_date": "2024-02-28"
+    },
+    {
+        "track_id": "SP0069",
+        "title": "Track Title 69",
+        "artist": "Artist 6",
+        "streams": 7304934,
+        "release_date": "2024-02-25"
+    },
+    {
+        "track_id": "SP0070",
+        "title": "Track Title 70",
+        "artist": "Artist 8",
+        "streams": 4963112,
+        "release_date": "2025-01-10"
+    },
+    {
+        "track_id": "SP0071",
+        "title": "Track Title 71",
+        "artist": "Artist 7",
+        "streams": 2879357,
+        "release_date": "2024-01-27"
+    },
+    {
+        "track_id": "SP0072",
+        "title": "Track Title 72",
+        "artist": "Artist 4",
+        "streams": 1592832,
+        "release_date": "2025-04-28"
+    },
+    {
+        "track_id": "SP0073",
+        "title": "Track Title 73",
+        "artist": "Artist 3",
+        "streams": 2962344,
+        "release_date": "2023-08-11"
+    },
+    {
+        "track_id": "SP0074",
+        "title": "Track Title 74",
+        "artist": "Artist 5",
+        "streams": 4884723,
+        "release_date": "2024-08-31"
+    },
+    {
+        "track_id": "SP0075",
+        "title": "Track Title 75",
+        "artist": "Artist 4",
+        "streams": 2119503,
+        "release_date": "2024-02-01"
+    },
+    {
+        "track_id": "SP0076",
+        "title": "Track Title 76",
+        "artist": "Artist 2",
+        "streams": 5213006,
+        "release_date": "2025-02-26"
+    },
+    {
+        "track_id": "SP0077",
+        "title": "Track Title 77",
+        "artist": "Artist 4",
+        "streams": 4805192,
+        "release_date": "2024-05-01"
+    },
+    {
+        "track_id": "SP0078",
+        "title": "Track Title 78",
+        "artist": "Artist 8",
+        "streams": 4055067,
+        "release_date": "2025-01-28"
+    },
+    {
+        "track_id": "SP0079",
+        "title": "Track Title 79",
+        "artist": "Artist 4",
+        "streams": 895340,
+        "release_date": "2023-07-23"
+    },
+    {
+        "track_id": "SP0080",
+        "title": "Track Title 80",
+        "artist": "Artist 10",
+        "streams": 1670855,
+        "release_date": "2024-07-11"
+    },
+    {
+        "track_id": "SP0081",
+        "title": "Track Title 81",
+        "artist": "Artist 4",
+        "streams": 868209,
+        "release_date": "2024-02-19"
+    },
+    {
+        "track_id": "SP0082",
+        "title": "Track Title 82",
+        "artist": "Artist 10",
+        "streams": 7816452,
+        "release_date": "2024-01-23"
+    },
+    {
+        "track_id": "SP0083",
+        "title": "Track Title 83",
+        "artist": "Artist 3",
+        "streams": 4491803,
+        "release_date": "2023-11-26"
+    },
+    {
+        "track_id": "SP0084",
+        "title": "Track Title 84",
+        "artist": "Artist 1",
+        "streams": 9713242,
+        "release_date": "2024-08-14"
+    },
+    {
+        "track_id": "SP0085",
+        "title": "Track Title 85",
+        "artist": "Artist 2",
+        "streams": 8568187,
+        "release_date": "2024-06-18"
+    },
+    {
+        "track_id": "SP0086",
+        "title": "Track Title 86",
+        "artist": "Artist 2",
+        "streams": 1628665,
+        "release_date": "2023-07-25"
+    },
+    {
+        "track_id": "SP0087",
+        "title": "Track Title 87",
+        "artist": "Artist 6",
+        "streams": 4395768,
+        "release_date": "2025-04-28"
+    },
+    {
+        "track_id": "SP0088",
+        "title": "Track Title 88",
+        "artist": "Artist 9",
+        "streams": 6871646,
+        "release_date": "2024-11-15"
+    },
+    {
+        "track_id": "SP0089",
+        "title": "Track Title 89",
+        "artist": "Artist 1",
+        "streams": 8260456,
+        "release_date": "2024-04-16"
+    },
+    {
+        "track_id": "SP0090",
+        "title": "Track Title 90",
+        "artist": "Artist 4",
+        "streams": 291660,
+        "release_date": "2024-01-19"
+    },
+    {
+        "track_id": "SP0091",
+        "title": "Track Title 91",
+        "artist": "Artist 6",
+        "streams": 1525166,
+        "release_date": "2024-03-18"
+    },
+    {
+        "track_id": "SP0092",
+        "title": "Track Title 92",
+        "artist": "Artist 8",
+        "streams": 236492,
+        "release_date": "2024-02-18"
+    },
+    {
+        "track_id": "SP0093",
+        "title": "Track Title 93",
+        "artist": "Artist 6",
+        "streams": 6200511,
+        "release_date": "2024-11-09"
+    },
+    {
+        "track_id": "SP0094",
+        "title": "Track Title 94",
+        "artist": "Artist 3",
+        "streams": 9643517,
+        "release_date": "2024-01-18"
+    },
+    {
+        "track_id": "SP0095",
+        "title": "Track Title 95",
+        "artist": "Artist 10",
+        "streams": 9997796,
+        "release_date": "2025-04-16"
+    },
+    {
+        "track_id": "SP0096",
+        "title": "Track Title 96",
+        "artist": "Artist 8",
+        "streams": 4740909,
+        "release_date": "2024-01-05"
+    },
+    {
+        "track_id": "SP0097",
+        "title": "Track Title 97",
+        "artist": "Artist 4",
+        "streams": 3904763,
+        "release_date": "2024-01-11"
+    },
+    {
+        "track_id": "SP0098",
+        "title": "Track Title 98",
+        "artist": "Artist 9",
+        "streams": 1756048,
+        "release_date": "2024-03-06"
+    },
+    {
+        "track_id": "SP0099",
+        "title": "Track Title 99",
+        "artist": "Artist 10",
+        "streams": 9696775,
+        "release_date": "2025-02-28"
+    },
+    {
+        "track_id": "SP0100",
+        "title": "Track Title 100",
+        "artist": "Artist 5",
+        "streams": 5032732,
+        "release_date": "2024-10-11"
+    }
+]
